@@ -1,0 +1,4 @@
+AuthUserFile D:\wamp\www\.htpasswd
+AuthName "Please enter password"
+AuthType Basic
+require valid-user
